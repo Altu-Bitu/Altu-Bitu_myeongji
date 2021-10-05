@@ -1,0 +1,16 @@
+#IncludeRegexLine: ^[ 	]*[#%][ 	]*(include|import)[ 	]*[<"]([^">]+)([">])
+
+#IncludeRegexScan: ^.*$
+
+#IncludeRegexComplain: ^$
+
+#IncludeRegexTransform: 
+
+C:/Altu-Bitu_myeongji/0903 - sorting/assignment/11651.cpp
+iostream
+-
+algorithm
+-
+vector
+-
+
